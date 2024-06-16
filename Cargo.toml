@@ -5,4 +5,5 @@ edition = "2021"
 
 [dependencies]
 piccolo = "0.3.2"
+rustyline = "14.0.0"
 serialport = "4.3.0"
