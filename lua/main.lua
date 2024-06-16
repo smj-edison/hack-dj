@@ -1,0 +1,1 @@
+print("hello from lua, clock time is: " .. os.clock())
